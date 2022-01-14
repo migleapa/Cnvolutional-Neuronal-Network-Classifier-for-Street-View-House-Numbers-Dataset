@@ -9,5 +9,6 @@ I the first part of the assigment I have developed a simple multilayer perceptro
 I then developed a Convolutional Neural Network (CNN). CNNs are used in image recognition and processing that is specifically designed to process pixel data. We see from the accuracy score - the model is much more suited for this image dataset. 
 
 'Capstone_Project.ipynb' is a jupyter notebook file containing my code
-'train_32x32.mat' - train dataset
-'test_32x32.mat' - test dataset
+'train_32x32.mat' AND 'test_32x32.mat' datasets are too big to be uploaded here, bellow is the link where you can find the datasets:
+
+http://ufldl.stanford.edu/housenumbers/
